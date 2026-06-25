@@ -160,3 +160,4 @@ def menu():
 
 
 menu()# Modulo de validaciones
+# Modulo agregar consola
