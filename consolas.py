@@ -162,3 +162,4 @@ def menu():
 menu()# Modulo de validaciones
 # Modulo agregar consola
 # Modulo buscar y eliminar
+# Ciclo principal del sistema
